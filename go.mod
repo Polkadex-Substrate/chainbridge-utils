@@ -1,4 +1,4 @@
-module github.com/Polkadex-Substrate/chainbridge-utils
+module chainbridge-utils
 
 go 1.16
 
