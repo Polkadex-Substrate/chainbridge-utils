@@ -11,9 +11,9 @@ import (
 	"path"
 	"time"
 
-	"github.com/ChainSafe/chainbridge-utils/core"
-	"github.com/ChainSafe/chainbridge-utils/msg"
 	log "github.com/ChainSafe/log15"
+	"github.com/Polkadex-Substrate/chainbridge-utils/core"
+	"github.com/Polkadex-Substrate/chainbridge-utils/msg"
 )
 
 type httpMetricServer struct {
