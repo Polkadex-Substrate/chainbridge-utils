@@ -2,7 +2,6 @@ module github.com/Polkadex-Substrate/chainbridge-utils
 
 go 1.16
 
-replace github.com/ChainSafe/chainbridge-utils v1.0.6 => github.com/Polkadex-Substrate/chainbridge-utils v1.0.6
 
 require (
 	github.com/ChainSafe/log15 v1.0.0
