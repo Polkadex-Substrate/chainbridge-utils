@@ -9,7 +9,7 @@ import (
 	"github.com/Polkadex-Substrate/chainbridge-utils/crypto"
 	"github.com/Polkadex-Substrate/chainbridge-utils/crypto/secp256k1"
 	"github.com/Polkadex-Substrate/chainbridge-utils/crypto/sr25519"
-	"github.com/Snowfork/go-substrate-rpc-client/signature"
+	"github.com/snowfork/go-substrate-rpc-client/signature"
 )
 
 // The Constant "keys". These are the name that the keys are based on. This can be expanded, but

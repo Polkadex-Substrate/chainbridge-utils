@@ -41,7 +41,7 @@ github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible/go
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/Shopify/sarama v1.19.0/go.mod h1:FVkBWblsNy7DGZRfXLU0O9RCGt5g3g3yEuWXgklEdEo=
 github.com/Shopify/toxiproxy v2.1.4+incompatible/go.mod h1:OXgGpZ6Cli1/URJOF1DMxUHB2q5Ap20/P/eIdh4G0pI=
-github.com/Snowfork/go-substrate-rpc-client v2.0.0+incompatible h1:xcuqX27w0bCC2EpFNLtzwnpPl7jq2MBlr+cCQidtZaY=
+github.com/snowfork/go-substrate-rpc-client v2.0.0+incompatible h1:xcuqX27w0bCC2EpFNLtzwnpPl7jq2MBlr+cCQidtZaY=
 github.com/Snowfork/go-substrate-rpc-client v2.0.0+incompatible/go.mod h1:vKtJ+yO7VitIqi8h6pdhuWGTMR+ClNO8N8KtBvsrzc0=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
 github.com/VictoriaMetrics/fastcache v1.5.7/go.mod h1:ptDBkNMQI4RtmVo8VS/XwRY6RoTu1dAWCbrk+6WsEM8=

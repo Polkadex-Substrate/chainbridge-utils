@@ -7,9 +7,9 @@ import (
 	"crypto/rand"
 
 	"github.com/Polkadex-Substrate/chainbridge-utils/crypto"
-	"github.com/Snowfork/go-substrate-rpc-client/signature"
-	"github.com/Snowfork/go-substrate-rpc-client/types"
 	"github.com/ethereum/go-ethereum/common/hexutil"
+	"github.com/snowfork/go-substrate-rpc-client/signature"
+	"github.com/snowfork/go-substrate-rpc-client/types"
 )
 
 var _ crypto.Keypair = &Keypair{}
